@@ -1,0 +1,9 @@
+pet=["cat","dog","bird",56]
+print(pet)
+numbers=[2,5,6,9,8]
+numbers.append(45)
+print(numbers)
+numbers.reverse()
+print(numbers)
+numbers.sort()
+print(numbers)
